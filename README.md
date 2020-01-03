@@ -25,9 +25,8 @@ Feel free to submit open issues on the resources, no pull requests please.
 
 ## Authors
 
-* **Robin Beck** - [stellarsquall](https://github.com/stellarsquall)
+* ***Yaswant Cahudhary* 
 
-* **Sam McFadyen** - [SamMc87](https://github.com/SamMc87)
 
 ## License
 
@@ -35,6 +34,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to our #cheffriends, especially Franklin Webber @burtlo and Thomas Petchel @tpetchel
+* Hat tip to our #cheffriends, especially Kritika Jha @Robin 
 
 # chef-docs
