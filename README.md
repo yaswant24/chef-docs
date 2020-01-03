@@ -34,6 +34,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to our #cheffriends, especially Kritika Jha @Robin 
+* Hat tip to our #cheffriends, especially Kritika Jha @Wipro 
 
 # chef-docs
